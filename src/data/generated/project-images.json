@@ -1,0 +1,158 @@
+{
+  "casecompass-desktop-full": {
+    "src": "/projects/casecompass-desktop-full.webp",
+    "width": 1200,
+    "height": 5200,
+    "blurDataURL": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABQBQCdASoQAEUAPu1wsFMppiSipmgBMB2JZycAFQ4BcBfrjv5WCzJ77tO4OZFU1rhVFwAA/vGBn4Njvmob8ojLPZrR7uauaGOFekKQFuaUQd3ClVcQYTOvJ2nm8OwJM1xL/QcU/FdHv+E9k6XyXvxjJIhBTGnyiVrgLbZMLi24bomDt062ozu5C27LIwPvigBCkNNC9DHO00AHkOFiYUPL26WA2pJhR2unpE9BDx0q5njR2VCaZ2rmzGOAAA=="
+  },
+  "casecompass-desktop": {
+    "src": "/projects/casecompass-desktop.webp",
+    "width": 2000,
+    "height": 1250,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAAoAA4BaJZQC7AEKbuklhOAA/vbjKS4CskaH1/6onBzHsvLzbahqaYIIrDYOu49n7ThQ1t/vL/rYsN2ZXWxgAAA="
+  },
+  "casecompass-mobile-full": {
+    "src": "/projects/casecompass-mobile-full.webp",
+    "width": 600,
+    "height": 4200,
+    "blurDataURL": "data:image/webp;base64,UklGRkABAABXRUJQVlA4IDQBAADQBwCdASoQAHAAPu1ssFMppaSiqTgIATAdiWMAzC3/43mfFIQME3aXmPB6Ea4lfPgEKxiHVwdLnt7UhGetA9HuaJU8/YWgAAD+8tEuP59VAIzZN91KNJz8c0yHli2n2eUW8ETsWT/b0Jk7X2/xD+MOylVQsnQ0wnC3VnPTTkMKxqCjRKF0vzT0KqBqwT08L4RUETJu95b/OFzEg/KLHxjHc3ygR2BRTiAmr5ZRfOhzfVqv4nsuyE4+Xb3wmqySJdfOp9F+pyVkHIcXbjnyBypc7UPqBxWsIMZrJ+f1TKnYXGnUKsb1IWeNFn6s9BQmCWcjGQsJaMfOE7kP13tXUjzlKYRnXgGyuGPPfA7cG/ARm7NLcC6a6YgCeNEhXQLlF4733kteKxvz6CAno+u53tDXroQAAA=="
+  },
+  "casecompass-mobile": {
+    "src": "/projects/casecompass-mobile.webp",
+    "width": 780,
+    "height": 1688,
+    "blurDataURL": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAADwBACdASoQACMAPulgp02pJaOiNVgIASAdCUAYnyQxP8BR97/ucRiJq267sRnl7AAA/vLRfOhi0RK3LC+FD9ImNHGciTbGNBdyEC47wnQ86dljt5QbdarU99wxpwfnbqNNVPy9226Zko1JlLxxIHPxuW+9f86Th1WcEDZL7juY/UXDUxCFVgxU+GdNv+w6Gx1cUHQOTtsj3W/GS7lCVGYbLdrmTDS5AAAAAA=="
+  },
+  "fort-jackson-desktop-full": {
+    "src": "/projects/fort-jackson-desktop-full.webp",
+    "width": 1200,
+    "height": 5200,
+    "blurDataURL": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAADQBQCdASoQAEUAPuVcpE2pJSOiMygBIByJZQC84CgfY1yQfxOpHgnI6bkKOiAxc790v2XYQz0AAP7wP1nVAc3OVnegelwdiLztOSjlEaVIkLYrKQtFRbCOc5+sZtQMDOEl0W5PFrjlMLtmQ4FpO9J23vKgVp0RQJ7mhLdXyqsEhfCF2klL2uLCCikkSWrzsPJ6TrvB4e6aViLseF54GoU6/a/SXVfXsC7utB4kVSSMX2xy85zUQkpaaNWGqo8oUHO5gv+1H1ORTTDfXsGRWdqMM6wAAA=="
+  },
+  "fort-jackson-desktop": {
+    "src": "/projects/fort-jackson-desktop.webp",
+    "width": 2000,
+    "height": 1250,
+    "blurDataURL": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoQAAoAA4BaJZQCdAEQN9lBkwAA/vZGGdFF1bBNkKpA+JzbzwQqFpbPK2U1tfnkdYA2QvglSkSCW58AAAA="
+  },
+  "fort-jackson-meet-the-team-desktop": {
+    "src": "/projects/fort-jackson-meet-the-team-desktop.webp",
+    "width": 2000,
+    "height": 1250,
+    "blurDataURL": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAoAA4BaJZQCdAEO9P12noAA/vUctcuc8CpSq2J0R/ZpgNoZHMbb/V1JZpkZdTkHxKSIOMoPYAAA"
+  },
+  "fort-jackson-mobile-full": {
+    "src": "/projects/fort-jackson-mobile-full.webp",
+    "width": 600,
+    "height": 4200,
+    "blurDataURL": "data:image/webp;base64,UklGRkQBAABXRUJQVlA4IDgBAADwBwCdASoQAHAAPu1qpk6ppiMiLbqsATAdiWUAxdn/7j9FRgropekueYwPdbQ0w+DQFSLgaR67PF3sR7Yw1XmutYJK3gTSn3gA/u1vNqRwQrlyzfXr+GcHCLcpgnpaHb7WD8lTnUAxt3W6MYYAuErKxLnFr6t8taYaxjdzsxQfWvuTZFP8oI6dqxD8YofEKqMHrCd9pP+0r3aCf64NAW4h7URYttxZw1ncEY0gFS1wgUBg1rLhd/6TK3jo8W+Vu2INEc785taKq+KIyNGLssMElf7LTHJHXH17tkORj4meI5AFCA0gyOjXcDHISt5DJlewFcw0bKPgj7zgpeQlU3jGDo3BAwHps2dLJkSJh/oYakhp/yTlHaq67gGzUA/4+hym5+vKUwXI/2+eCm487sbVRmVMUl4F4AA="
+  },
+  "fort-jackson-mobile": {
+    "src": "/projects/fort-jackson-mobile.webp",
+    "width": 780,
+    "height": 1688,
+    "blurDataURL": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAADQBACdASoQACMAPt1Yo02opSMiNUgBEBuJYwCnG2gAV/NCF0TLzN8by3PAy89vrgD+8BE6fDqGR8lpRxbGqmA0/qhDdq1HcsF9jCOCZCyg7HnF1R7c27qdybuoQpTeHvZ9DjEdQ4vmBznhM9iQi3ejopoxY6i4j9IJlPNQCNpJBS8kqwJdAbsHnT2tuAmVt4w3hK74O4K/NX+AAAA="
+  },
+  "fort-jackson-services-desktop": {
+    "src": "/projects/fort-jackson-services-desktop.webp",
+    "width": 2000,
+    "height": 1250,
+    "blurDataURL": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAAAQAgCdASoQAAoAA4BaJZQC7AERB/brdm0AAP71G+yMAdoZMlfVQr0eXsBM6ofRB4BeqqofoRgAAA=="
+  },
+  "hoffman-desktop-full": {
+    "src": "/projects/hoffman-desktop-full.webp",
+    "width": 1200,
+    "height": 5200,
+    "blurDataURL": "data:image/webp;base64,UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASoQAEUAPu1qrVCppaQipmwBMB2JQBdkKZTTf1CRA7KIylVx3Ys8fOfGZ5QleOcTHh7lj7qbYJA0Ehmvfriu5/bxYAD+h4HUUJpEwdHfuklNra5TneHVqXJdxmHMlS/AB2Sz3sF9GVVHDUHPH3GkAR4dmIX9b5aC0DOkS11WrXt/9AyLfNuFxOaezURRlGsyt7uO8C7asHMQlF3ys0vO1pwdiJxak4x6MqahTMSU6h9PVyKpJOtiXdw+T3fOUn6AvgU8/fhsQPlgZDSC/nmWeIqHXnkbC27hBE32th0MftzBYoDor8hx6UuXpMGiLakaoWlGwZIegf/uojPkcsOCoFCI53oZVYuueCQTm4ze766YC9h91iiI3Ojyrm/JPjibpiT0nAHrk44Is2uckt1v3GnCdXOPFekrIOQzTk084UcWzOxtvJ1BuygBWDl5dJLP1/E1xDQM+9T0JEzWufIO6cLGQY3YGaHS1MOuwAAA"
+  },
+  "hoffman-desktop": {
+    "src": "/projects/hoffman-desktop.webp",
+    "width": 2000,
+    "height": 1250,
+    "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAAoAA4BaJZQCdIIjFbY2/paAAP6HB/AgXuuR3xY7R5VAdx21Ej6yam1lXndVJH0hNFsaHEctVW0H0X5zOIsUCnTHHz6OtoaDSxQnQ66+xBsDAAA="
+  },
+  "hoffman-mobile-full": {
+    "src": "/projects/hoffman-mobile-full.webp",
+    "width": 600,
+    "height": 4200,
+    "blurDataURL": "data:image/webp;base64,UklGRtgBAABXRUJQVlA4IMwBAABwCgCdASoQAHAAPslUn02npSKiO31YAPAZCWMAwOogDd/7R83H/hZGZtwDAlWzfIuBYIf9s+/Dg/DzMiwIqnNZyLWUH7WdUtJ4Xj27tXV+s4JtJsLxfO39T4MCgAD+8DlrtIvNHzqyXT0lIRpUmUXUZ6APx8ynbSRu55cnZly6RqJ/u27ewXEGbAdpr63wJx+kl7NvnomftqMkmWsxXqbU0WjI7J06CFK+iLJNbfcRXnkw7guo3Xlwofd7c/Y8ja+yB2LNVr0MMLsqI3TuZc8YKDS91NpP0Usn/zOWSPCigJRItgVPegtIv5VF7lZsfbgEPSeMtmIkLH6jdtDDvs+MUFKPnvZ4+4lAykZfcgrX8gQQmwYfXWOSYYExcVsd6xr217JaO47G5eUMpmiMOayDfPevMKB0iQ4+LEruc6/0oBt2Y0Ph1W4ZKndImD/eNgck7vuweqUrlD6fAdwQd+yL7O0pOCTJU7ZLkLZJNT/Xy2GImxeDz5Dxbj5Mrc8rWP7ovDWlk0ui9M85lNr1oYxMkse8rrfdk/HjX7XNmed79dz7FkvtVASPtuh9J1FGWo2i2GfpktQYwbhwEGrLtOZ4Kj00sCQi1e0NR4AA"
+  },
+  "hoffman-mobile": {
+    "src": "/projects/hoffman-mobile.webp",
+    "width": 780,
+    "height": 1688,
+    "blurDataURL": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAADQBQCdASoQACMAPu1qrFCppaQiqqgBMB2JQBfPUIwB+AAV4Aev6L4DPcq/hfucPk3olQByK7IAAP7qvcGIbNhSixws0zd15xuj+IKblE/wCCzsMthqdsDvI+bDIZ9r2QzEUsRjK7cnrlXm6+MCOFcKaMlVUQKb1iBsPLjsXS9OJocHUdzIqIfloTGhcg5OynD0hKBLvgXiU1yTRVyGqq48EdNu8eg9Luv9u7KjGwfjxDgwFRJUgb6+HMAAAA=="
+  },
+  "landstrong-about-desktop": {
+    "src": "/projects/landstrong-about-desktop.webp",
+    "width": 2000,
+    "height": 1250,
+    "blurDataURL": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAQCdASoQAAoAA4BaJYwCdAEPAcmX5jwA/uXkpRjfkucDm6Vs0e/U94yszStzIAA="
+  },
+  "landstrong-coaching-desktop": {
+    "src": "/projects/landstrong-coaching-desktop.webp",
+    "width": 2000,
+    "height": 1250,
+    "blurDataURL": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAAoAA4BaJYwCdAEPSVVWWAAA/uXkpRjeR6q71yc3kTrj1CiKz0uGZmzjgSDq9yhxtz5zRgAAAA=="
+  },
+  "landstrong-desktop-full": {
+    "src": "/projects/landstrong-desktop-full.webp",
+    "width": 1200,
+    "height": 5200,
+    "blurDataURL": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAABwBQCdASoQAEUAPu1srE8ppiQiLNgKqTAdiWUAsOwNkQzCUdAMwQiHezYwYlja0vZ+AMJAAP7QtYF55ew0V5cQutniaUAqLAZ0hoXyjuLxoTfXTtvxxMe9sEt2vnH+0iNZW58maq6NkX/SgdvmCNT7MTHTOoBlfZJtbLg5azYAVbrAB+ujRVCgIH+q7F+PHexTYObFF7PaaOIiCQNfDkompMLUWAAA"
+  },
+  "landstrong-desktop": {
+    "src": "/projects/landstrong-desktop.webp",
+    "width": 2000,
+    "height": 1250,
+    "blurDataURL": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoQAAoAA4BaJYwCdAEMROAadOAA/uXkoC+BLxLvJuIXXC6zWo22OVSQmGQ7K9uYaBIVhRsfamygCTPu+PCuBMDQAAA="
+  },
+  "landstrong-mobile-full": {
+    "src": "/projects/landstrong-mobile-full.webp",
+    "width": 600,
+    "height": 4200,
+    "blurDataURL": "data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAAAwCACdASoQAHAAPu1mr1AppSSirbVaATAdiWcAxOYgAyxAPtBTuo3rgcDxcbd7AZi3+WgA+wtPVoRvgk5ZrMflfN1jUAo3ANbgAAD+ugU+jj21F6WuyuWqv5eI33FJeMHDYE/DJlnMIpdGr3Dsm+Mi2g6muZO4km7F0j6TMZB8lU7eGYcR5ZYdjlr4GLy0lU/9TPsgfjEk7ewBcD5ocujTeZzBPLY/93igbZjUcd9D3RijYyh0XR4kxPbiJlycd2ljzHHRKI94uZeAzfPMrBvoLAaS0GJot3jZtsLOv4Fr6WzVXQ+xogjwQfzXNe42WepWEQRVDjlXL14vrA0KmX2Kb1HwQXSG5MqS5+HP6PHKPNDq7yAAAA=="
+  },
+  "landstrong-mobile": {
+    "src": "/projects/landstrong-mobile.webp",
+    "width": 780,
+    "height": 1688,
+    "blurDataURL": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQBQCdASoQACMAPulep02pJSOiNVgIASAdCWUAuw4gABucNOdD6uW+yHhMOY2t0jAAAP7MAb1N5OoxcPfnedz2EFb7TXFq4eP4rZLJJdnqwg5uo0qLeDx3+6OvWmk3uBENvtx+Mo9Vr5dKxA4nXpoECr/Q0uBvCNNGM1t82Zc79gpTHIUXwhhsn4AAAA=="
+  },
+  "landstrong-portal-desktop-full": {
+    "src": "/projects/landstrong-portal-desktop-full.webp",
+    "width": 1200,
+    "height": 1992,
+    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAwCdASoQABsAPu1iqk2ppaQiMAgBMB2JZwDCgGlpTiKFAMAzvKEAAP79g0/+UvQZtOamVfG62D8vyOUz9ue6cfVA3s/GNUBi/sSS/0knNmFqOto6MFf9Nd43mNE6mdZAaccSHFMota4AAAA="
+  },
+  "landstrong-portal-desktop": {
+    "src": "/projects/landstrong-portal-desktop.webp",
+    "width": 2000,
+    "height": 1250,
+    "blurDataURL": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAoAA4BaJaQAAuP4RIIAAP73JjePrt7Lbq4iQ5jx8nI5ltpjt1n84QAAAA=="
+  },
+  "landstrong-portal-mobile-full": {
+    "src": "/projects/landstrong-portal-mobile-full.webp",
+    "width": 600,
+    "height": 4200,
+    "blurDataURL": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAACwBgCdASoQAHAAPu1oqlAppaOirbqoATAdiWkAzjgTdwyBaR2z6en+j0PADr/Vi3CNTjZ5O+kfQC/GK2aHgAD+6uW5dQv3Hscgtupf2TAXjgYKoTJSREbiNBiTK98bH9KGgfzxspctWilPqC/U8r3hTM+FtIdkReQ7LosBhBw90NYjUw7uP2RrmYg0j3DgdkfFF+Ok7EtZSUURbGM8ua1q8jUWx93RuRkxDzq0g+HD0Iv2/INlgalLOXGbiPA1B8/6loIEW4T0Nd+r3jYfrwoHAsUYiIqxnAA="
+  },
+  "landstrong-portal-mobile": {
+    "src": "/projects/landstrong-portal-mobile.webp",
+    "width": 780,
+    "height": 1688,
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAwCdASoQACMAPt1cpU2opSOiNUgBEBuJaQDKtCzcy2C1SZ6OPCAAAP7tqghue1c9xDlWNmRvTkncu7qfoYDf1AA8uZFcSJdi9yz+cOMYrA3/S+pcyATnk7/ZcYRW56gZm6DwQCgRxgBSfmwAAA=="
+  },
+  "landstrong-simulator-desktop": {
+    "src": "/projects/landstrong-simulator-desktop.webp",
+    "width": 2000,
+    "height": 1250,
+    "blurDataURL": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAABwAQCdASoQAAoAA4BaJZQCdAGIQAD+8aVeD1fnl9vbrYmSa1cXagAA"
+  },
+  "landstrong-simulator-mobile": {
+    "src": "/projects/landstrong-simulator-mobile.webp",
+    "width": 780,
+    "height": 1688,
+    "blurDataURL": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAwCdASoQACMAPt1apE2opSOiNUgBEBuJZQC3uDcacwSizsL20AD+7+mlmDoleHoD2aMITL9cIfC5dr8/hCbJQjUHMDuQo7nS2DsGDRAAAA=="
+  }
+}
